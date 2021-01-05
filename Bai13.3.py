@@ -1,4 +1,3 @@
-import random
 import string
 size=int(input('Nhập giới hạn dữ liệu (MB): '))
 while size<1 or size>1024:
